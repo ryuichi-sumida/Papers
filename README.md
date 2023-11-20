@@ -8,3 +8,4 @@ Format is the following.
 2. Link to the paper
 3. Published Date
 4. Summary and interesting points of the paper
+5. How can I use this in my research?
